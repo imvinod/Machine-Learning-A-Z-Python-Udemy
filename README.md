@@ -1,4 +1,4 @@
-##Machine Learning A-Z™: Hands-On Python 
+## Machine Learning A-Z™: Hands-On Python 
 
 This course has been designed by Professional Data Scientists. Complex theory, algorithms and coding libraries are explained in a simple way.
 
